@@ -1,6 +1,7 @@
 # Main
 
 [![Join the chat at https://gitter.im/CC-Hive/Main](https://badges.gitter.im/CC-Hive/Main.svg)](https://gitter.im/CC-Hive/Main?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Stories in Ready](https://badge.waffle.io/CC-Hive/Main.svg?label=ready&title=WaffleIO)](http://waffle.io/CC-Hive/Main) 
 
 ##differences from original:
 * not use CCDocker - definitly maybe
