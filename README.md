@@ -1,5 +1,7 @@
 # Main
 
+[![Join the chat at https://gitter.im/CC-Hive/Main](https://badges.gitter.im/CC-Hive/Main.svg)](https://gitter.im/CC-Hive/Main?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ##differences from original:
 * not use CCDocker - definitly maybe
 * use Howl - almost required for multi repo
