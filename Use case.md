@@ -1,4 +1,4 @@
-# A basic multi farm set-up
+# A basic multi farm senario
 A user has two turtles and many farms, some are tree farms other are wheat. A conventionsal farming program would have one turtle wait until the crop has grown and then harvest it and return to waiting. Hive provides a better way, which allows multiple turtles to monitor many farms and get fuel from a central location.
 
 Each farm's maintanece operation is defined as a task (which is basically a lua program with some location data). Tasks get scheduled for exicution, when a task need to be ran the server (which stores the tasks) assigns it to a turtle.
