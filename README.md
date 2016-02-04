@@ -10,6 +10,10 @@
 * LDoc documentation Generation
 * 
 
+##hopes
+* turtles share pathfindong map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
+* 
+
 ###Documentation Generaton
 http://www.computercraft.info/forums2/index.php?/topic/21254-howl-lua-build-system/page__view__findpost__p__244826
 http://stevedonovan.github.io/ldoc/examples/multiple.lua.html
