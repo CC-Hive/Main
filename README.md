@@ -17,6 +17,8 @@
 #Contributing Guide
 * follow styling sheet (to be made)
 * comment your code in a way that LDoc can use (see below)
+* try to keep commits descriptive (I will admit that I don't always do this)
+* do lots of small commits over one big one, it's easier for others to contribute with you and easier to revert parts
 
 ###Documentation Generaton
 http://www.computercraft.info/forums2/index.php?/topic/21254-howl-lua-build-system/page__view__findpost__p__244826
