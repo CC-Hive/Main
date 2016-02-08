@@ -10,6 +10,9 @@
 * LDoc documentation Generation
 * 
 
+## to do
+* [ ] link back to other project repos, or skip to sub-moduleing them
+
 ##hopes
 * turtles share pathfindong map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
 * 
