@@ -17,6 +17,8 @@ Adapted from https://github.com/chocolatey/choco#etiquette-regarding-communicati
 
 ## to do
 * [ ] link back to other project repos, or skip to sub-moduleing them
+* [ ] https://github.com/chocolatey/choco/blob/master/COMMITTERS.md
+* [ ] https://github.com/chocolatey/choco/blob/master/CONTRIBUTING.md
 
 ## hopes
 * turtles share pathfindong map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
