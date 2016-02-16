@@ -23,5 +23,5 @@ Adapted from https://github.com/chocolatey/choco#etiquette-regarding-communicati
 
 ## hopes
 * turtles share pathfindong map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
-* 
+* multi language support, perhaps via a table
 
