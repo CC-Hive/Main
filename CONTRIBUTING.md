@@ -9,7 +9,7 @@ Adapted from https://github.com/chocolatey/choco#etiquette-regarding-communicati
 * try to keep commits descriptive (I will admit that I don't always do this)
 * do lots of small commits over one big one, it's easier for others to contribute with you and easier to revert parts
 
-### Documentation Genera ton
+### Documentation Generation
 http://www.computercraft.info/forums2/index.php?/topic/21254-howl-lua-build-system/page__view__findpost__p__244826
 http://stevedonovan.github.io/ldoc/examples/multiple.lua.html
 http://stevedonovan.github.io/ldoc/examples/colon.lua.html
