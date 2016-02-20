@@ -14,7 +14,7 @@ Adapted from [Etiquette Regarding Communication](https://github.com/chocolatey/c
 * Better separation, intention of separate executables (with a combined option)
 * LDoc documentation generation
 
-## hopes
+## Hopes
 * Turtles share pathfinding map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
 * Multi language support, perhaps via a table
 
