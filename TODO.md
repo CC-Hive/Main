@@ -1,7 +1,7 @@
-The other repos will have their own to do lists, you may what to check those too.
+The other repositories will have their own to do lists, you may want to check those too.
 * todo: add links here to other repos
 
-* [ ] port old todo from readme
-* [ ] expand with new things to do
-* [ ] create TODO.md for other repos
-* [ ] rename hopes to wishes - ? starting to reconsider this one
+* [ ] Port old to do from README
+* [ ] Expand with new things to do
+* [ ] Create TODO.md for other repositories
+* [ ] Rename hopes to wishes - ? Possibly, starting to reconsider this one
