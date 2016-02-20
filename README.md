@@ -13,13 +13,6 @@ Adapted from [Etiquette Regarding Communication](https://github.com/chocolatey/c
 * Use Howl - almost required for multi-repository
 * Better separation, intention of separate executables (with a combined option)
 * LDoc documentation generation
-* 
-
-## To do
-* [ ] Link back to other project repos, or skip to sub-moduleing them
-* [ ] https://github.com/chocolatey/choco/blob/master/COMMITTERS.md
-* [ ] https://github.com/chocolatey/choco/blob/master/CONTRIBUTING.md
-* [ ] other special files: https://en.wikipedia.org/wiki/README
 
 ## hopes
 * Turtles share pathfinding map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
