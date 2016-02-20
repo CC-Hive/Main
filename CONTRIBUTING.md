@@ -8,6 +8,8 @@ Adapted from [Etiquette Regarding Communication](https://github.com/chocolatey/c
 * Comment your code in a way that LDoc can use (see below)
 * Try to keep commits descriptive (I will admit that I don't always do this)
 * Do lots of small commits over one big one, it's easier for others to contribute with you and easier to revert parts
+* Pull requests: if it's all related then it can all go together, just make sure it's not all one big commit (see above) I can revert parts I don't like later. As to deciding what's related, use your best judgement.
+* 
 
 ### Documentation Generation
 
