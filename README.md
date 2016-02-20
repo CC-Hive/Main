@@ -9,9 +9,9 @@ When requesting support, try to remember that we are all volunteers that have li
 Adapted from https://github.com/chocolatey/choco#etiquette-regarding-communication
 
 ## differences from original:
-* not use CCDocker - definitly maybe
+* not use CCDocker - definitely maybe
 * use Howl - almost required for multi repo
-* better seperation, intention of seperate exicutables (with a combined option)
+* better separation, intention of separate executables (with a combined option)
 * LDoc documentation Generation
 * 
 
@@ -22,6 +22,6 @@ Adapted from https://github.com/chocolatey/choco#etiquette-regarding-communicati
 * [ ] other special files: https://en.wikipedia.org/wiki/README
 
 ## hopes
-* turtles share pathfindong map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
+* turtles share pathfinding map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
 * multi language support, perhaps via a table
 
