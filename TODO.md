@@ -1,13 +1,15 @@
 ## Things to do
-
+The other repositories will have their own to do lists, you may want to check those too
 * [x] Add links here to other repos
-* [ ] Link back to other project repos, or skip to sub-moduleing them
-* [ ] Port old to do from README
+* [x] Link back to other project repos, or skip to sub-moduleing them
+* [x] Port old to do from README
 * [ ] Expand with new things to do
-* [ ] The other repositories will have their own to do lists, you may want to check those too
 * [ ] Create TODO.md for other repositories
-* [ ] Rename hopes to wishes - ? Possibly, starting to reconsider this one
+* [x] ~~Rename hopes to wishes~~ renamed to extended goals
 * [ ] https://github.com/chocolatey/choco/blob/master/COMMITTERS.md
 * [ ] https://github.com/chocolatey/choco/blob/master/CONTRIBUTING.md
 * [ ] other special files: https://en.wikipedia.org/wiki/README
 
+## Extended Goals
+* Turtles share pathfinding map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
+* Multi language support, perhaps via a table
