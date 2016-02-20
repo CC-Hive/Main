@@ -11,10 +11,8 @@ Adapted from [Etiquette Regarding Communication](https://github.com/chocolatey/c
 ## Differences from original:
 * Not using CCDocker - definitely maybe
 * Use Howl - almost required for multi-repository
-* Better separation, intention of separate executables (with a combined option)
+* Better separation, intention of separate executables for the turtle and server (with a combined option)
 * LDoc documentation generation
 
-## Hopes
-* Turtles share pathfinding map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
-* Multi language support, perhaps via a table
+
 
