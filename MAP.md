@@ -4,7 +4,7 @@
 * [Tasks](https://github.com/CC-Hive/Tasks) - Some default tasks and their triggers
 * [Server](https://github.com/CC-Hive/Server) - Store tasks, distribute to turtles, monitor turtles
 * [Turtle](https://github.com/CC-Hive/Turtle) - Update server with status, accept and execute tasks
-* [Network](https://github.com/CC-Hive/Network) - Specification for comunication between turtle and server
+* [Network](https://github.com/CC-Hive/Network) - Specification for communication between turtle and server
 
 ## Possible Components
 * [metadata](https://github.com/CC-Hive/metadata) - A metadata API and fs API replacement for ComputerCraft
@@ -20,6 +20,6 @@
 ## Development Tools
 * [Howl](https://github.com/CC-Hive/Howl) - A CC Build System
 
-## Simular Projects
+## Similar Projects
 * [turtletopia](https://github.com/CC-Hive/turtletopia) - turtle automation framework
 * [base-mate](https://github.com/CC-Hive/base-mate) - A base automation system for ComputerCraft
