@@ -5,7 +5,7 @@ Adapted from [choclatey](https://github.com/chocolatey/choco#etiquette-regarding
 
 ## Defining a contribution
 You are a contributor if you...
-* have maded at least one pull request which was accepted
+* have maded at least one pull request which has been accepted
 * are/were a [member](https://github.com/orgs/CC-Hive/people) of the github organisation
 
 
