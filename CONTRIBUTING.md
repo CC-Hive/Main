@@ -5,8 +5,8 @@ Adapted from [choclatey](https://github.com/chocolatey/choco#etiquette-regarding
 
 ## Defining a contribution
 You are a contributor if you...
-* have maded at least one pull request which has been accepted
-* are/were a [member](https://github.com/orgs/CC-Hive/people) of the github organisation
+* have made at least one pull request which has been accepted
+* are/were a [member](https://github.com/orgs/CC-Hive/people) of the github organization
 
 
 # General
@@ -16,7 +16,7 @@ You are a contributor if you...
 * Do lots of small commits over one big one, it's easier for others to contribute with you and easier to revert parts
 * Pull requests: if it's all related then it can all go together, just make sure it's not all one big commit (see above) I can revert parts I don't like later. As to deciding what's related, use your best judgment.
 * Don't edit files which your team is not responsible for, If you are not sure then check [here](https://github.com/orgs/CC-Hive/teams) the team description will help you. if you are still confused then just ask, either on the forums or make an issue.
-* This project is under the [MIT License](). Any code contributions you make must be made under a compatable license.
+* This project is under the [MIT License](). Any code contributions you make must be made under a compatible license.
 
 ### Documentation Generation
 
