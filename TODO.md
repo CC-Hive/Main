@@ -10,7 +10,7 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] https://github.com/chocolatey/choco/blob/master/CONTRIBUTING.md
 * [ ] other special files: https://en.wikipedia.org/wiki/README
 * [ ] link map in readme, to aid navigation of visitors
-* [ ] low priority: decide distrobution method, github mile stones?
+* [ ] low priority: decide distribution method, github mile stones?
 
 ## Extended Goals
 * Turtles share pathfinding map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
