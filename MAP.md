@@ -23,3 +23,4 @@
 ## Similar Projects
 * [turtletopia](https://github.com/CC-Hive/turtletopia) - turtle automation framework
 * [base-mate](https://github.com/CC-Hive/base-mate) - A base automation system for ComputerCraft
+* [QDTTS](https://github.com/CC-Hive/QDTTS) - quick and dirty turtle task system
