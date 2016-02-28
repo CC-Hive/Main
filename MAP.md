@@ -5,6 +5,7 @@
 * [Server](https://github.com/CC-Hive/Server) - Store tasks, distribute to turtles, monitor turtles
 * [Turtle](https://github.com/CC-Hive/Turtle) - Update server with status, accept and execute tasks
 * [Network](https://github.com/CC-Hive/Network) - Specification for communication between turtle and server
+* [Inventory](https://github.com/CC-Hive/Inventory) - An inventory manager and api to access it
 
 ## Possible Components
 * [metadata](https://github.com/CC-Hive/metadata) - A metadata API and fs API replacement for ComputerCraft
