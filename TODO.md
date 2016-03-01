@@ -1,5 +1,6 @@
 ## Things to do
 The other repositories will have their own to do lists, you may want to check those too
+* [ ] https://help.github.com/articles/helping-people-contribute-to-your-project/
 * [x] Add links here to other repos
 * [x] Link back to other project repos, or skip to sub-moduleing them
 * [x] Port old to do from README
