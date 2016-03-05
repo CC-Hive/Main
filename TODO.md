@@ -1,7 +1,7 @@
 ## Things to do
 The other repositories will have their own to do lists, you may want to check those too
 *     Clean up to do lists from time to time (move compleated items to bottom)
-* [ ] Howl prepends all resulting lua files with license, this is stored in a sting/table of strings so that it can be printed to the screen if a user requests an about page
+* [ ] Howl prepends all resulting lua files with [license](https://github.com/CC-Hive/Main/blob/master/LICENSE.txt), this is stored in a sting/table of strings so that it can be printed to the screen if a user requests an about page
 * [ ] https://help.github.com/articles/helping-people-contribute-to-your-project/
 * [ ] Expand with new things to do
 * [ ] Create TODO.md for other repositories
