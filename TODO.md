@@ -5,6 +5,7 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] https://help.github.com/articles/helping-people-contribute-to-your-project/
 * [ ] Expand with new things to do
 * [ ] Create TODO.md for other repositories
+* [ ] clean up md files
 * [ ] https://github.com/chocolatey/choco/blob/master/COMMITTERS.md
 * [ ] https://github.com/chocolatey/choco/blob/master/CONTRIBUTING.md
 * [ ] other special files: https://en.wikipedia.org/wiki/README
