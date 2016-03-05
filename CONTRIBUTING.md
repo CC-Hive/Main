@@ -8,6 +8,8 @@ You are a contributor if you...
 * have made at least one pull request which has been accepted
 * are/were a [member](https://github.com/orgs/CC-Hive/people) of the github organization
 
+## How to use github
+Lupus590 made a [tutorial on the forums](http://www.computercraft.info/forums2/index.php?/topic/26002-)
 
 # General
 * Follow styling sheet (to be made)
