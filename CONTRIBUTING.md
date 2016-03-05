@@ -14,6 +14,8 @@ Lupus590 made a [tutorial on the forums](http://www.computercraft.info/forums2/i
 # General
 * Follow styling sheet (to be made)
 * Comment your code in a way that LDoc can use (see below)
+* This is open source software. Consider the people who will read your code, and make it look nice for them. It's sort of like driving a car: Perhaps you love doing donuts when you're alone, but with passengers the goal is to make the ride as smooth as possible. (Stolen from [here](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md))
+* If your contibution is in the [todo list](https://github.com/CC-Hive/Main/blob/master/TODO.md) then please put a `x` in the box in TODO.md
 * Try to keep commits descriptive (I will admit that I don't always do this)
 * Do lots of small commits over one big one, it's easier for others to contribute with you and easier to revert parts
 * Pull requests: if it's all related then it can all go together, just make sure it's not all one big commit (see above) I can revert parts I don't like later. As to deciding what's related, use your best judgment.
