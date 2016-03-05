@@ -8,6 +8,10 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] clean up md files
 * [ ] https://github.com/chocolatey/choco/blob/master/COMMITTERS.md
 * [ ] https://github.com/chocolatey/choco/blob/master/CONTRIBUTING.md
+* [ ] add to contributing
+ * Steps for creating good issues or pull requests.
+ * Links to external documentation, mailing lists, or a code of conduct.
+ * Community and behavioral expectations.
 * [ ] other special files: https://en.wikipedia.org/wiki/README
 * [ ] link map in readme, to aid navigation of visitors
 * [ ] low priority: decide distribution method, github mile stones?
