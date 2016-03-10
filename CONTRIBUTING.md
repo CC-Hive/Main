@@ -12,6 +12,23 @@ You are a contributor if you...
 ## How to use github
 Lupus590 made a [tutorial on the forums](http://www.computercraft.info/forums2/index.php?/topic/26002-)
 
+## Prefered format for git commit messages
+```
+Capitalized, short (50 chars or less) summary
+
+More detailed explanatory text, if necessary.
+
+Write your commit message in the imperative: "Fix bug" and not "Fixed bug"
+or "Fixes bug."  This convention matches up with commit messages generated
+by commands like git merge and git revert.
+
+- Bullet points are okay, you can use a hyphen or asterisk, but it must be followed by a
+  single space, with blank lines in between
+
+- Here is a second bullet point to demostate
+```
+adapted from [this blog](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+
 # General
 * Follow styling sheet (to be made)
 * Comment your code in a way that LDoc can use (see below)
