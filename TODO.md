@@ -22,6 +22,7 @@ The other repositories will have their own to do lists, you may want to check th
 
 ## Extended Goals
 #### Don't work on these until the above are done
+* [ ] Hive walks the user through the first time setup
 * [ ] Turtles share pathfinding map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
 * [ ] Multi language support, perhaps via a table
 * [ ] First time setup guidence, the different programs give instuctions to the user on required peripherals, how to connect a turtle, etc.
