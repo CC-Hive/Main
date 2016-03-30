@@ -8,6 +8,7 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] Expand with new things to do
 * [ ] Create TODO.md for other repositories
 * [ ] clean up md files
+* [ ] [Others please review] local coorodinate system for task areas (off set from world coordinates by task location)
 * [ ] https://github.com/chocolatey/choco/blob/master/COMMITTERS.md
 * [ ] https://github.com/chocolatey/choco/blob/master/CONTRIBUTING.md
 * [ ] add to contributing
@@ -24,6 +25,10 @@ The other repositories will have their own to do lists, you may want to check th
 
 ## Extended Goals
 #### Don't work on these until the above are done
+* [ ] tasks are represented by mini-tasks, some of these can depend on other mini-tasks being compleated before they can be done, some may be done in parallel (e.g. multiple turtles per tasks)
+* [ ] Multiple turtles can cooperate on one large task - possible implementations:
+ * a turtle acts as a server for other turtles - will make small tasks more usefull as turtles out of range of cental server can get new tasks without going all the way back to base; server-turtle will forward status updates back to cental 
+ * ~~server manages everything~~
 * [ ] Hive walks the user through the first time setup
 * [ ] Turtles share pathfinding map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
 * [ ] Multi language support, perhaps via a table
