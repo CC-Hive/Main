@@ -34,3 +34,4 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] Multi language support, perhaps via a table
 * [ ] First time setup guidence, the different programs give instuctions to the user on required peripherals, how to connect a turtle, etc.
 * [ ] Addon or plugin support, third-party code which can change the behavour of Hive in ways which a task can't (override how the server does things)
+* [ ] some programs can be loaded as an an API to access their functionality (example programs: http://pastebin.com/cUYTGbpb)
