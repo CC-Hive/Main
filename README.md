@@ -12,7 +12,7 @@ When requesting support, try to remember that we are all volunteers that have li
 Adapted from [Etiquette Regarding Communication](https://github.com/chocolatey/choco#etiquette-regarding-communication)
 
 ## How to contibute
-Read [this](https://github.com/CC-Hive/Main/master/CONTRIBUTING.md)
+Read [this](https://github.com/CC-Hive/Main/blob/master/CONTRIBUTING.md)
 
 ## Lost?
 Try reading the [map](https://github.com/CC-Hive/Main/blob/master/MAP.md)
