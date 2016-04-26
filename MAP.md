@@ -9,7 +9,6 @@
 * [Settings](https://github.com/CC-Hive/Settings) - An API so that we all store settings in one place with a consistent file format.
 
 ## Possible Components
-* [metadata](https://github.com/CC-Hive/metadata) - A metadata API and fs API replacement for ComputerCraft
 * [LyqydNet-Programs](https://github.com/CC-Hive/LyqydNet-Programs) - A collection of ComputerCraft programs using the LyqydNet API for client-server interactions
 * [LAMA](https://github.com/CC-Hive/LAMA) - turtle position tracking
 * [lnfs-client](https://github.com/CC-Hive/lnfs-client) - client for below
@@ -18,6 +17,10 @@
 * [ccdocker](https://github.com/CC-Hive/ccdocker) - Docker-like application for ComputerCraft!
 * [cc-netshell](https://github.com/CC-Hive/cc-netshell) - A remote shell program for ComputerCraft
 * [CC-Pathfinding-and-Mapping](https://github.com/CC-Hive/CC-Pathfinding-and-Mapping) - A collection of APIs and programs to allow pathfinding and mapping within the ComputerCraft mod for Minecraft
+
+## Possible Standards to Support
+* [CraftOS-Standards](https://github.com/CC-Hive/CraftOS-Standards)
+* [metadata](https://github.com/CC-Hive/metadata) - A metadata API and fs API replacement for ComputerCraft
 
 ## Development Tools
 * [Howl](https://github.com/CC-Hive/Howl) - A CC Build System
