@@ -36,3 +36,4 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] Addon or plugin support, third-party code which can change the behavour of Hive in ways which a task can't (override how the server does things)
 * [ ] some programs can be loaded as an an API to access their functionality (example programs: http://pastebin.com/cUYTGbpb)
 * [ ] stealth mode, turtles communicate to server via disks. good for pvp servers
+* [ ] Package manager for addons/pugins and tasks
