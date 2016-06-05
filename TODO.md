@@ -12,9 +12,9 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] https://github.com/chocolatey/choco/blob/master/COMMITTERS.md
 * [ ] https://github.com/chocolatey/choco/blob/master/CONTRIBUTING.md
 * [ ] add to contributing
- * Steps for creating good issues or pull requests.
- * Links to external documentation, mailing lists, or a code of conduct.
- * Community and behavioral expectations.
+ * [ ] Steps for creating good issues or pull requests.
+ * [ ]Links to external documentation, mailing lists, or a code of conduct.
+ * [ ] Community and behavioral expectations.
 * [ ] other special files: https://en.wikipedia.org/wiki/README
 * [ ] link map in readme, to aid navigation of visitors
 * [ ] low priority: decide distribution method, github mile stones?
@@ -25,6 +25,7 @@ The other repositories will have their own to do lists, you may want to check th
 
 ## Extended Goals
 #### Don't work on these until the above are done
+* [ ] file transmison? http://www.computercraft.info/forums2/index.php?/topic/26849-ccftp-a-file-transmitting-api/
 * [ ] base navigation? http://www.computercraft.info/forums2/index.php?/topic/11067-idea-exchange/page__view__findpost__p__251718
 * [ ] tasks are represented by mini-tasks, some of these can depend on other mini-tasks being compleated before they can be done, some may be done in parallel (e.g. multiple turtles per tasks)
 * [ ] Multiple turtles can cooperate on one large task - possible implementations:
