@@ -9,6 +9,7 @@
 * [Settings](https://github.com/CC-Hive/Settings) - An API so that we all store settings in one place with a consistent file format.
 
 ## Possible Components
+* [ccftp](http://www.computercraft.info/forums2/index.php?/topic/26849-ccftp-a-file-transmitting-api/)
 * [LyqydNet-Programs](https://github.com/CC-Hive/LyqydNet-Programs) - A collection of ComputerCraft programs using the LyqydNet API for client-server interactions
 * [LAMA](https://github.com/CC-Hive/LAMA) - turtle position tracking
 * [lnfs-client](https://github.com/CC-Hive/lnfs-client) - client for below
