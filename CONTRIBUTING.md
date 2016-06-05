@@ -30,16 +30,16 @@ by commands like git merge and git revert.
 adapted from [this blog](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
 # General
-* Follow styling sheet (to be made)
+* Follow styling sheet (provisional below)
 * Comment your code in a way that LDoc can use (see below)
-* Too many comments are better than too few, if a comment is exstanious then I (@Lupus590) will remove it. I can't add comments for you though.
+* Too many comments are better than too few, if a comment is exstanious then I ( @Lupus590 ) will remove it. I can't add comments for you though.
 * This is open source software. Consider the people who will read your code, and make it look nice for them. It's sort of like driving a car: Perhaps you love doing donuts when you're alone, but with passengers the goal is to make the ride as smooth as possible. (Stolen from [here](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md))
 * If your contibution is in the [todo list](https://github.com/CC-Hive/Main/blob/master/TODO.md) then please put a `x` in the box in TODO.md
 * Try to keep commits descriptive (I will admit that I don't always do this)
 * Do lots of small commits over one big one, it's easier for others to contribute with you and easier to revert parts
 * Pull requests: if it's all related then it can all go together, just make sure it's not all one big commit (see above) I can revert parts I don't like later. As to deciding what's related, use your best judgment.
 * Don't edit files which your team is not responsible for, If you are not sure then check [here](https://github.com/orgs/CC-Hive/teams) the team description will help you. if you are still confused then just ask, either on the forums or make an issue.
-* This project is under the [MIT License](). Any code contributions you make must be made under a compatible license.
+* This project is under the [MIT License](https://github.com/CC-Hive/Main/blob/master/LICENSE.txt). Any code contributions you make must be made under a compatible license.
 * Contributers should document and publish their work in a way that allows another contributor to pick up on it if the original contributer stops working on the project due to any reason. (Ths is why we are using LDoc)
 
 ### Documentation Generation
