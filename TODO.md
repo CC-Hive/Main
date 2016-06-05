@@ -1,7 +1,6 @@
 ## Things to do
 The other repositories will have their own to do lists, you may want to check those too
 *     Clean up to do lists from time to time (move compleated items to bottom)
-* [ ] Tag gitter rooms
 * [ ] Add issue lables from main to other repos
 * [ ] Howl prepends all resulting lua files with [license](https://github.com/CC-Hive/Main/blob/master/LICENSE.txt), preferably as a sting/table of strings so that it can be printed to the screen if a user requests an about page
 * [ ] https://help.github.com/articles/helping-people-contribute-to-your-project/
@@ -18,6 +17,7 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] other special files: https://en.wikipedia.org/wiki/README
 * [ ] link map in readme, to aid navigation of visitors
 * [ ] low priority: decide distribution method, github mile stones?
+* [x] Tag gitter rooms
 * [x] Add links here to other repos
 * [x] Link back to other project repos, or skip to sub-moduleing them
 * [x] Port old to do from README
@@ -25,7 +25,6 @@ The other repositories will have their own to do lists, you may want to check th
 
 ## Extended Goals
 #### Don't work on these until the above are done
-* [ ] file transmison? http://www.computercraft.info/forums2/index.php?/topic/26849-ccftp-a-file-transmitting-api/
 * [ ] base navigation? http://www.computercraft.info/forums2/index.php?/topic/11067-idea-exchange/page__view__findpost__p__251718
 * [ ] tasks are represented by mini-tasks, some of these can depend on other mini-tasks being compleated before they can be done, some may be done in parallel (e.g. multiple turtles per tasks)
 * [ ] Multiple turtles can cooperate on one large task - possible implementations:
