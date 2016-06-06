@@ -17,7 +17,6 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] other special files: https://en.wikipedia.org/wiki/README
 * [ ] link map in readme, to aid navigation of visitors
 * [ ] low priority: decide distribution method, github mile stones?
-* [x] Tag gitter rooms
 * [x] Add links here to other repos
 * [x] Link back to other project repos, or skip to sub-moduleing them
 * [x] Port old to do from README
