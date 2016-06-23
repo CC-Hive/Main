@@ -6,7 +6,7 @@
 * [Turtle](https://github.com/CC-Hive/Turtle) - Update server with status, accept and execute tasks
 * [Network](https://github.com/CC-Hive/Network) - Specification for communication between turtle and server
 * [Inventory](https://github.com/CC-Hive/Inventory) - An inventory manager and api to access it
-* [Settings](https://github.com/CC-Hive/Settings) - An API so that we all store settings in one place with a consistent file format.
+* ~~[Settings](https://github.com/CC-Hive/Settings) - An API so that we all store settings in one place with a consistent file format~~ going to use the [default settings api](http://www.computercraft.info/wiki/Settings_(API)), redirect it to another file 
 
 ## Possible Components
 * [ccftp](http://www.computercraft.info/forums2/index.php?/topic/26849-ccftp-a-file-transmitting-api/)
@@ -29,6 +29,8 @@
 ## Similar Projects
 ##### forked for reference
 ##### check license before copying code
+* [CC-Hive_for-archive-only](https://github.com/CC-Hive/CC-Hive_for-archive-only) - the original git repo
 * [turtletopia](https://github.com/CC-Hive/turtletopia) - turtle automation framework
 * [base-mate](https://github.com/CC-Hive/base-mate) - A base automation system for ComputerCraft
 * [QDTTS](https://github.com/CC-Hive/QDTTS) - quick and dirty turtle task system
+* [A.S.S.](https://github.com/CC-Hive/CCJam-2015) - a program with which you can easily automate your computer/turtle to do certain jobs at certain times.
