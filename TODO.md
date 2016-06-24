@@ -25,7 +25,7 @@ The other repositories will have their own to do lists, you may want to check th
 
 ## Extended Goals
 #### Don't work on these until the above are done
-* [ ] base navigation? http://www.computercraft.info/forums2/index.php?/topic/11067-idea-exchange/page__view__findpost__p__251718
+* [ ] base navigation? http://www.computercraft.info/forums2/index.php?/topic/11067-idea-exchange/page__view__findpost__p__251718 http://www.computercraft.info/forums2/index.php?/topic/27007-a-rather-dapper-mapper-%E2%80%93-satellite-gps-maps/
 * [ ] tasks are represented by mini-tasks, some of these can depend on other mini-tasks being compleated before they can be done, some may be done in parallel (e.g. multiple turtles per tasks)
 * [ ] Multiple turtles can cooperate on one large task - possible implementations:
  * a turtle acts as a server for other turtles - will make small tasks more usefull as turtles out of range of cental server can get new tasks without going all the way back to base; server-turtle will forward status updates back to cental 
