@@ -38,3 +38,4 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] some programs can be loaded as an an API to access their functionality (example programs: http://pastebin.com/cUYTGbpb)
 * [ ] stealth mode, turtles communicate to server via disks. good for pvp servers
 * [ ] Package manager for addons/pugins and tasks
+* [ ] http://www.computercraft.info/forums2/index.php?/topic/27038-generic-builder/
