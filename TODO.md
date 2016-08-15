@@ -1,6 +1,7 @@
 ## Things to do
 The other repositories will have their own to do lists, you may want to check those too
 * Clean up to do lists from time to time (move compleated items to bottom)
+* [ ] .gitignore for each repo - https://www.gitignore.io/api/linux%2Cmacos%2Cwindows
 * [ ] gitter welcome screens
 * [ ] Add issue lables from main to other repos
 * [ ] Howl prepends all resulting lua files with [license](https://github.com/CC-Hive/Main/blob/master/LICENSE.txt), preferably as a sting/table of strings so that it can be printed to the screen if a user requests an about page
