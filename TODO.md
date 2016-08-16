@@ -34,6 +34,7 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] Hive walks the user through the first time setup
 * [ ] Turtles share pathfinding map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
 * [ ] Multi language support, perhaps via a table
+* [ ] Turtle Transportation Framework - A way to move turtles via a third party, think teleporting/trains/pipes anything which the turtle is inactive while being transported somewhere
 * [ ] First time setup guidence, the different programs give instuctions to the user on required peripherals, how to connect a turtle, etc.
 * [ ] Addon or plugin support, third-party code which can change the behavour of Hive in ways which a task can't (override how the server does things)
  * [ ] Plugin and Hive components subscribe to events handlers which use callback functions to notify things of events
