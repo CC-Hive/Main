@@ -31,7 +31,7 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] Multiple turtles can cooperate on one large task - possible implementations:
  * a turtle acts as a server for other turtles - will make small tasks more usefull as turtles out of range of cental server can get new tasks without going all the way back to base; server-turtle will forward status updates back to cental 
  * ~~server manages everything~~
-* [ ] Hive walks the user through the first time setup
+* [ ] metadata support https://github.com/lyqyd/metadata
 * [ ] Turtles share pathfinding map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
 * [ ] Multi language support, perhaps via a table
 * [ ] Turtle Transportation Framework - A way to move turtles via a third party, think teleporting/trains/pipes anything which the turtle is inactive while being transported somewhere
