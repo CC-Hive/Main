@@ -1,8 +1,6 @@
 # The repositories of Hive
 ## Hive's Components
 * [Main](https://github.com/CC-Hive/Main) - Combined turtle server executable is made here - also contialns all of the information and specifications
-* [Server](https://github.com/CC-Hive/Server) - Store tasks, distribute to turtles, monitor turtles - everything the server needs
-* [Turtle](https://github.com/CC-Hive/Turtle) - Update server with status, accept and execute tasks - everything a turtle needs
 
 
 ## Possible Components
