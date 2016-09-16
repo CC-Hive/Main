@@ -24,7 +24,6 @@
 * [Blue Shiny Rocks](https://github.com/SquidDev-CC/Blue-Shiny-Rocks) - Lua Rocks for CC - For Lua Documentation Generator
 
 ## Similar Projects
-##### forked for reference
 ##### check license before copying code
 * [the old Hive repo](https://github.com/lupus590/CC-Hive_moved-see-readme/tree/master.old) - the original git repo
 * [turtletopia](https://github.com/lyqyd/turtletopia) - turtle automation framework
