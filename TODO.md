@@ -9,6 +9,7 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] https://help.github.com/articles/helping-people-contribute-to-your-project/
 * [ ] Expand with new things to do
 * [ ] Create TODO.md for other repositories
+* [ ] choose a path finding program, [starNav](http://www.computercraft.info/forums2/index.php?/topic/19491-) or [egps](http://www.computercraft.info/forums2/index.php?/topic/25856-un-official-egps-developement-mapping-pathfinding-api/)
 * [ ] clean up md files
 * [ ] [Others please review] local coorodinate system for task areas (off set from world coordinates by task location)
 * [ ] https://github.com/chocolatey/choco/blob/master/COMMITTERS.md
