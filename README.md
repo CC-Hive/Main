@@ -5,6 +5,7 @@
 
 Hive will require ComputerCraft(CC) 1.6 or later, this is due to rednet protocals. However, it is looking likely that the minimum version will be CC 1.64, for turtle.getItemDetail/inspect. If anyone want to port Hive to an older CC then best of luck to you.
 
+The forum post: http://www.computercraft.info/forums2/index.php?/topic/22421-
 
 ## Etiquette Regarding Communication
 When requesting support, try to remember that we are all volunteers that have lives outside of this project and none of us are paid to ensure things work for you, so please be considerate of others' time when you are asking for things. Many of us have families/friends/work/university that also need time as well and only have so much time to give on a daily basis. We will do what we can to provide support when folks are running into issues, but you may have to wait, so a little consideration and patience will be welcome. After all, you are using a pretty good tool without cost. It may not be perfect (yet), and we know that.
