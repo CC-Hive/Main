@@ -1,6 +1,12 @@
 --Author: Lupus590
+--License: MIT
 
-local description = "This script is designed to be run on startup and checks if computers have a label.\n If it does not then it makes one based on several pieces of data which can help identify the computer.\n The format of the resulting label is '<Advanced|Normal><Turtle|Pocket|Computer><ID>' all within 2 characters (plus id)\nIf the computer already has a label and you want this script to assign a new one then you can run the script with the argument f"
+local description = {
+"This script is designed to be run on startup and checks if computers have a label.",
+"If it does not then it makes one based on several pieces of data which can help identify the computer.",
+"The format of the resulting label is '<Advanced|Normal><Turtle|Pocket|Computer><ID>' all within 2 characters (plus id)",
+"If the computer already has a label and you want this script to assign a new one then you can run the script with the argument f",
+}
 
 
 local function genLabel()
@@ -22,7 +28,7 @@ local function genLabel()
 		_type = "C"
 	end
 	
-	if command then --command computer?
+	if commands then --command computer?
 		os.setComputerLabel("Com"..tostring(os.getComputerID()))
 	else
 		os.setComputerLabel(advance.._type..tostring(os.getComputerID())) --append the id do that the computer has a unique label
@@ -30,8 +36,8 @@ local function genLabel()
 end
 
 local function printArgs()
-	print("Welcome to lupus590's auto label setting script!")
-	textutils.pagedPrint(description)
+	print("Welcome to lupus590's automatic label setting script!")
+	print(table.concat(description, "\n"))
 end
 
 
