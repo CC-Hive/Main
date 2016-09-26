@@ -4,6 +4,7 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] .gitignore for each repo - https://www.gitignore.io/api/linux%2Cmacos%2Cwindows
 * [ ] gitter welcome screens
 * [ ] additinal/better use cases
+* [ ] Lupus590 has a bunch of bookmarks related to hive, need to sort them
 * [ ] Add issue lables from main to other repos
 * [ ] Howl prepends all resulting lua files with [license](https://github.com/CC-Hive/Main/blob/master/LICENSE.txt), preferably as a sting/table of strings so that it can be printed to the screen if a user requests an about page
 * [ ] https://help.github.com/articles/helping-people-contribute-to-your-project/
@@ -21,10 +22,6 @@ The other repositories will have their own to do lists, you may want to check th
 * [ ] other special files: https://en.wikipedia.org/wiki/README
 * [ ] link map in readme, to aid navigation of visitors
 * [ ] low priority: decide distribution method, github mile stones?
-* [x] Add links here to other repos
-* [x] Link back to other project repos, or skip to sub-moduleing them
-* [x] Port old to do from README
-* [x] ~~Rename hopes to wishes~~ renamed to extended goals
 
 ## Extended Goals
 #### Don't work on these until the above are done

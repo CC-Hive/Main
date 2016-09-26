@@ -10,4 +10,5 @@ local quips = {
   "Lets hope that the crash reporter is fine.",
   "You were going to see this eventually.",
   "SupercalifragilisticCRASHidocious!",
+  "Don't worry, our team of highly trained creepers can fix this.",
 }
