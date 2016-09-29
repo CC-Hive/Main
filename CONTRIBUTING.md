@@ -12,6 +12,9 @@ You are a contributor if you...
 ## How to use github
 Lupus590 made a [tutorial on the forums](http://www.computercraft.info/forums2/index.php?/topic/26002-)
 
+## Prefered format for marking things to do in code/designs
+`TODO: <short description of thing to do` This can be followed by a few more details, it may be helpful if your editor highlights the `TODO:` tag
+
 ## Prefered format for git commit messages
 ```
 Capitalized, short (50 chars or less) summary

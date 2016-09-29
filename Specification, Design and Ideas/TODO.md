@@ -1,16 +1,14 @@
 ## Things to do
-The other repositories will have their own to do lists, you may want to check those too
+The various files may have their own to do lists, you may want to check those too
 * Clean up to do lists from time to time (move compleated items to bottom)
 * [ ] .gitignore for each repo - https://www.gitignore.io/api/linux%2Cmacos%2Cwindows
-* [ ] gitter welcome screens
+* [ ] finish contributing.md - needs lua code presentation guidlines
 * [ ] additinal/better use cases
 * [ ] Lupus590 has a bunch of bookmarks related to hive, need to sort them
-* [ ] Add issue lables from main to other repos
 * [ ] Howl prepends all resulting lua files with [license](https://github.com/CC-Hive/Main/blob/master/LICENSE.txt), preferably as a sting/table of strings so that it can be printed to the screen if a user requests an about page
 * [ ] https://help.github.com/articles/helping-people-contribute-to-your-project/
 * [ ] Expand with new things to do
-* [ ] Create TODO.md for other repositories
-* [ ] choose a path finding program, [starNav](http://www.computercraft.info/forums2/index.php?/topic/19491-) or [egps](http://www.computercraft.info/forums2/index.php?/topic/25856-un-official-egps-developement-mapping-pathfinding-api/)
+* [ ] choose a path finding program, [starNav](http://www.computercraft.info/forums2/index.php?/topic/19491-) or [egps](http://www.computercraft.info/forums2/index.php?/topic/25856-un-official-egps-developement-mapping-pathfinding-api/) - things like this should be in specification folder
 * [ ] clean up md files
 * [ ] [Others please review] local coorodinate system for task areas (off set from world coordinates by task location)
 * [ ] https://github.com/chocolatey/choco/blob/master/COMMITTERS.md
@@ -21,7 +19,7 @@ The other repositories will have their own to do lists, you may want to check th
  * [ ] Community and behavioral expectations.
 * [ ] other special files: https://en.wikipedia.org/wiki/README
 * [ ] link map in readme, to aid navigation of visitors
-* [ ] low priority: decide distribution method, github mile stones?
+* [ ] low priority: decide distribution method, github mile stones? is this possible via a script on pastebin?
 
 ## Extended Goals
 #### Don't work on these until the above are done
