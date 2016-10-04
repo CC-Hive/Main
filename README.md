@@ -24,5 +24,10 @@ Try reading the [map](https://github.com/CC-Hive/Main/blob/master/MAP.md)
 * Better separation, intention of separate executables for the turtle and server (with a combined option)
 * LDoc documentation generation
 
+## What's in a name?
+Given the hoped for end result of Hive, one will have a MC base as busy as a beehive due to the multitude of turtles working under the direction of a server. Or as one [forum user](http://www.computercraft.info/forums2/index.php?/topic/22421-wip-mit-hive-a-turtle-control-system/page__view__findpost__p__213763) put it "as if the Turtles have a singular 'Hive' mind."
+
+Alternatively, because every good opensource project seams to have a recursive acronym - "Hive Is Very... acronym's are hard".
+
 
 
