@@ -1,7 +1,7 @@
 ## Things to do
 The various files may have their own to do lists, you may want to check those too
 * Clean up to do lists from time to time (move compleated items to bottom)
-* [ ] .gitignore for each repo - https://www.gitignore.io/api/linux%2Cmacos%2Cwindows
+* [ ] current ection in todo and a backlog
 * [ ] finish contributing.md - needs lua code presentation guidlines
 * [ ] additinal/better use cases
 * [ ] Lupus590 has a bunch of bookmarks related to hive, need to sort them
