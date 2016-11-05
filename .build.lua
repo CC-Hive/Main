@@ -1,3 +1,3 @@
 -- this is the CI file which will be run
 
-close()
+status("ok", "we did nothing")
