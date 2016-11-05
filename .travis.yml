@@ -1,6 +1,16 @@
 jdk:
   - oraclejdk8
 install:
+  - mkdir -p $HOME/.cc-jars
   - wget -O howlci.jar https://dl.bintray.com/squiddev/maven/org/squiddev/howl.ci/0.1.9/howl.ci-0.1.9.jar
+cache:
+  directories:
+  - $HOME/.cc-jars
+env:
+  - CC_VERSION=1.79 CC_URL=https://addons-origin.cursecdn.com/files/2291/384/ComputerCraft1.79.jar
+  - CC_VERSION=1.75 CC_URL=https://addons-origin.cursecdn.com/files/2269/339/ComputerCraft1.75.jar
+  - CC_VERSION=1.64 CC_URL=https://minecraft.curseforge.com/projects/computercraft/files/2215320/download
+  - CC_VERSION=1.80pr0 CC_URL=https://minecraft.curseforge.com/projects/computercraft/files/2311039/download
+  
 script:
   - java -jar howlci.jar
