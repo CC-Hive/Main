@@ -1,7 +1,6 @@
 ## Things to do
 The various files may have their own to do lists, you may want to check those too
 * Clean up to do lists from time to time (move compleated items to bottom)
-* [ ] migrate from wiffle.io o github projects?
 * [ ] current section in todo and a backlog
 * [ ] finish contributing.md - needs lua code presentation guidlines
 * [ ] additinal/better use cases
@@ -16,7 +15,7 @@ The various files may have their own to do lists, you may want to check those to
 * [ ] https://github.com/chocolatey/choco/blob/master/CONTRIBUTING.md
 * [ ] add to contributing
  * [ ] Steps for creating good issues or pull requests.
- * [ ]Links to external documentation, mailing lists, or a code of conduct.
+ * [ ] Links to external documentation, mailing lists, or a code of conduct.
  * [ ] Community and behavioral expectations.
 * [ ] other special files: https://en.wikipedia.org/wiki/README
 * [ ] link map in readme, to aid navigation of visitors
