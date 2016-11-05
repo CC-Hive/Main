@@ -1,8 +1,6 @@
 # Main
 
-[![Join the chat at https://gitter.im/CC-Hive/Main](https://badges.gitter.im/CC-Hive/Main.svg)](https://gitter.im/CC-Hive/Main?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/CC-Hive/Main.svg?branch=master)](https://travis-ci.org/CC-Hive/Main)
-
-Builds outputs are best viewed here: https://squiddev-cc.github.io/howl.ci/?p=travis%2Fbuilds&repo=CC-Hive%2FMain
+[![Join the chat at https://gitter.im/CC-Hive/Main](https://badges.gitter.im/CC-Hive/Main.svg)](https://gitter.im/CC-Hive/Main?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/CC-Hive/Main.svg?branch=master)](https://squiddev-cc.github.io/howl.ci/?p=travis%2Fbuilds&repo=CC-Hive%2FMain)
 
 Made an edit which doesn't change code? put `[ci skip]` into your commit description Howl-CI and Travis will skip the build. Save energy, don't rebuild when not needed.
 
