@@ -4,6 +4,8 @@
 
 Builds outputs are best viewed here: https://squiddev-cc.github.io/howl.ci/?p=travis%2Fbuilds&repo=CC-Hive%2FMain
 
+Made an edit which doesn't change code? put `[ci skip]` into your commit description Howl-CI and Travis will skip the build. Save energy, don't rebuild when not needed.
+
 Hive will require ComputerCraft(CC) 1.6 or later, this is due to rednet protocals. However, it is looking likely that the minimum version will be CC 1.64, for turtle.getItemDetail/inspect. If anyone want to port Hive to an older CC then best of luck to you.
 
 The forum post: http://www.computercraft.info/forums2/index.php?/topic/22421-
