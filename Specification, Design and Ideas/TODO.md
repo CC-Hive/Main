@@ -2,9 +2,9 @@
 The various files may have their own to do lists, you may want to check those too
 * Clean up to do lists from time to time (move compleated items to bottom)
 * [ ] current section in todo and a backlog
+* [ ] make Misc Links.md pritty
 * [ ] finish contributing.md - needs lua code presentation guidlines
 * [ ] additinal/better use cases
-* [ ] Lupus590 has a bunch of bookmarks related to hive, need to sort them
 * [ ] Howl prepends all resulting lua files with [license](https://github.com/CC-Hive/Main/blob/master/LICENSE.txt), preferably as a sting/table of strings so that it can be printed to the screen if a user requests an about page
 * [ ] https://help.github.com/articles/helping-people-contribute-to-your-project/
 * [ ] Expand with new things to do
