@@ -61,7 +61,9 @@ A bunch of websites which may be useful to development
 * https://www.google.co.uk/#q=lua+style+guide
 
 
-
+# Possibly useful projects
+* http://www.computercraft.info/forums2/index.php?/topic/27810-opus-os
+* http://www.computercraft.info/forums2/index.php?/topic/27860-automatically-getting-id-of-computer/
 
 
 
