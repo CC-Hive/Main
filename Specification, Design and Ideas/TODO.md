@@ -1,8 +1,8 @@
 ## Things to do
 The various files may have their own to do lists, you may want to check those too
-* Clean up to do lists from time to time (move compleated items to bottom)
+* [ ] Howl-CI caches howl download
 * [ ] current section in todo and a backlog
-* [ ] make Misc Links.md pritty
+* [ ] make Misc Links.md look nicer
 * [ ] finish contributing.md - needs lua code presentation guidlines
 * [ ] additinal/better use cases
 * [ ] Howl prepends all resulting lua files with [license](https://github.com/CC-Hive/Main/blob/master/LICENSE.txt), preferably as a sting/table of strings so that it can be printed to the screen if a user requests an about page
