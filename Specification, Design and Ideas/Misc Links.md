@@ -64,6 +64,7 @@ A bunch of websites which may be useful to development
 # Possibly useful projects
 * http://www.computercraft.info/forums2/index.php?/topic/27810-opus-os
 * http://www.computercraft.info/forums2/index.php?/topic/27860-automatically-getting-id-of-computer/
+* http://www.computercraft.info/forums2/index.php?/topic/27971-typecc-a-simple-typesetting-system-for-books/
 
 
 
