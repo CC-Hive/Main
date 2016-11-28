@@ -62,21 +62,10 @@ A bunch of websites which may be useful to development
 
 
 # Possibly useful projects
-* http://www.computercraft.info/forums2/index.php?/topic/27810-opus-os
-* http://www.computercraft.info/forums2/index.php?/topic/27860-automatically-getting-id-of-computer/
-* http://www.computercraft.info/forums2/index.php?/topic/27971-typecc-a-simple-typesetting-system-for-books/
 
-
-
-
-
-### API
-
-
+# API
 
 ### Event Callback/remap
-
-
 
 [[0.7.5] Events API - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/2217-075-events-api/)
 
@@ -88,13 +77,7 @@ Hi there, so I had that Idea after reading that help topic where someone asked a
 
 Well, I had the idea that it would be kinda cool to add "macros" to the keys inside of CC. Now it became a small handy Utility which allows y...
 
-
-
-
-
-### Get Real Time
-
-
+## Get Real Time
 
 [[1.47] RealTime (Release 1.0) - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/6815-147-realtime-release-10/)
 
@@ -108,13 +91,7 @@ APIs - This is just a collection of API's I have made for ComputerCraft (Lua), d
 
 Real World Time API (Version 1.0) This API is in now in its release version. As promised, I have created an API which allows for obtaining real wo...
 
-
-
-
-
-### State Machine
-
-
+## State Machine
 
 [ccapis/state at master · fnuecke/ccapis](https://github.com/fnuecke/ccapis/blob/master/apis/state)
 
@@ -124,13 +101,7 @@ ccapis - Assorted list of small APIs for ComputerCraft
 
 utils - Stuff ported to CC and not.
 
-
-
-
-
-### UI
-
-
+## UI
 
 [[WIP] Titanium - UI Framework - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/27733-wip-titanium-ui-framework/)
 
@@ -192,7 +163,7 @@ Graphics-Library - An API for ComputerCraft designed to help developers create a
 
 
 
-
+### General API
 
 [[CC 1.63] strplus - String API + - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/19419-cc-163-strplus-string-api/)
 
@@ -250,13 +221,7 @@ Description This API offers some simple functions to manage file extensions. Som
 
 Hello everyone! This is my first time posting there, so I will make this post short. I made an automatically mining turtle yesterday, and found...
 
-
-
-
-
-### Ask a Pro, Wiki and Tutorial
-
-
+## Ask a Pro, Wiki and Tutorial
 
 [About loading files in a program and giving them a "sandbox" enviroment - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/27588-about-loading-files-in-a-program-and-giving-them-a-sandbox-enviroment/)
 
@@ -292,21 +257,13 @@ I'm curious.
 
 [String Patterns](http://www.lua.org/pil/20.2.html)
 
-
-
-
-
-### Debug and Dev
-
-
+## Debug and Dev
 
 [trace - Simple stack traces for errors - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/27844-trace-simple-stack-traces-for-errors/)
 
 As it turns out, CC supports xpcall, which is a pretty neat function that allows hackishly getting more detailed stack traces by abusing error levels...
 
 ### Logger
-
-
 
 [[ LogAPI ] v1.72 Logging made easier! - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/16955-logapi-v172-logging-made-easier/)
 
@@ -350,13 +307,7 @@ here is the code local native = term.native local device = {} local screen = {} 
 
 My first ever API, with it you can create neat .log files to read later and soon (I hope) print them! This is very boring I know, but its the fi...
 
-
-
-
-
 ### Messy code check
-
-
 
 [[Lua] [CC] _G viewer - Pastebin.com](http://pastebin.com/97wrUEgM)
 
@@ -364,9 +315,7 @@ My first ever API, with it you can create neat .log files to read later and soon
 
 Hello, This is my programs thread. So far I have only one program that I admit probably belongs in APIs and Utilities, but I plan on releasing both...
 
-
-
-
+### General Debug
 
 [[Incactive for now] Debugging - Debug apps like a boss - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/12162-incactive-for-now-debugging-debug-apps-like-a-boss/)
 
@@ -420,13 +369,7 @@ EnderAPI - An API by the people, for the people
 
 Table-Explorer - A ComputerCraft program that lets you look through a table
 
-
-
-
-
-### Does something which Hive will need to do
-
-
+## Does something which Hive will need to do
 
 [[b:7] Turtle Remote Control Voice Command [added Turtle Grouping] - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/15921-b7-turtle-remote-control-voice-command-added-turtle-grouping/)
 
@@ -536,13 +479,7 @@ Simple (yet useful) Storage UI Hey guys im sharing a little program that im work
 
 Hello everybody. I'm fairly new to the community, so this is the first API I've made public. I've created an API for networking turtles t...
 
-
-
-
-
-### FTP
-
-
+## FTP
 
 [[1.3] CraftFTP 0.2- Ingame File transfer (NEW! 0.4 Betas up!) - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/499-13-craftftp-02-ingame-file-transfer-new-04-betas-up/)
 
@@ -668,37 +605,19 @@ A while ago I tried (and gave up) to make some simple FTP program (which is kind
 
 InfiniFTP: For all your file tranferring needs! Now with more super shiny glowing logo! About InfiniFTP: Well, after that huge introduct...
 
-
-
-
-
-### Mapping
-
-
+## Mapping
 
 [[Computercraft 1.6.4+] Turtle 3D Map - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/20526-computercraft-164-turtle-3d-map/)
 
 Using the new Computercraft 1.6.4 feature, I made a program that uses a turtle to create a 3d map. Right now, it only adds to the map the highest blo...
 
-
-
-
-
-### Pudo-persitance
-
-
+## Pudo-persitance
 
 [Computer State Restore / Reconstruct - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/16194-computer-state-restore-reconstruct/)
 
 Hi everybody It was requested many times that dan implements a way to save the computer state when the world is closed, but he said that isn't...
 
-
-
-
-
-### Remote Connection
-
-
+## Remote Connection
 
 [FAR - (Actual) Remote Shell for CC - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/27077-far-actual-remote-shell-for-cc/)
 
@@ -716,13 +635,7 @@ This is a collection of a few remote-access programs i wrote. It currently consi
 
 vncd is a companion to nsh that allows you to control a computer and see what is currently on its screen. It differs from nsh in that nsh spawns a n...
 
-
-
-
-
-### Sandbox
-
-
+## Sandbox
 
 [APItools/sandbox.lua: A lua sandbox for executing non-trusted code](https://github.com/APItools/sandbox.lua)
 
@@ -750,13 +663,7 @@ I'm working on a sandbox. How can I make it more secure (AKA prevent a program f
 
 So this is a tool i simply wrote because I wanted to see if I could make it work It is not very big as you can see: Spoiler local function iT...
 
-
-
-
-
-### Shell Improvements
-
-
+## Shell Improvements
 
 ["" support for shell - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/5802-support-for-shell/)
 
@@ -766,13 +673,7 @@ You basicly run this code and it will allow you to use " " in shell. You can als
 
 Shell Utility Extended - Make autocompletion even more useful. Chat servers detector. Pastebin files lister. Usefull info Adding. v2.0 Shell Utilit...
 
-
-
-
-
-### String Manipliation
-
-
+## String Manipliation
 
 [BlackBulletIV/strong: A Lua library that makes your strings stronger!](https://github.com/BlackBulletIV/strong)
 
@@ -784,13 +685,7 @@ hello i am trying to find out if this is possible i have a command i am using on
 
 [StringX](http://pastebin.com/raw/mTSThCiz)
 
-
-
-
-
-### top level coroutine override
-
-
+## top level coroutine override
 
 [[question] Running a program above the shell - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/11304-question-running-a-program-above-the-shell/)
 
@@ -842,17 +737,9 @@ The Window API has slowed ComputerCraft down dramatically. However, with this si
 
 [[Lua] top level edit - Pastebin.com](http://pastebin.com/iHW6Fih0)
 
-
-
-
-
-### Turtle
-
-
+## Turtle
 
 ### 3D Printing
-
-
 
 [[1.4.5] NPaintPro - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/5029-145-npaintpro/)
 
@@ -890,13 +777,7 @@ So here it is, the thread for the updated shape builder. Features in the current
 
 Turtle Architect 2.0 VTZ6CqWY GitHub -By CometWolf I've been working on and off on this for the past 9 months. It's a completely new piece...
 
-
-
-
-
 ### Inventory and Crafting
-
-
 
 [[Lua] [CC][OpenPeripheral] Inventory Scanner - Pastebin.com](http://pastebin.com/ADfNjFPb)
 
@@ -942,13 +823,7 @@ This little system I've made allows for a set of 9 turtles to mine using an extr
 
 A system syncing the files of computers over some cloud storage API.
 
-
-
-
-
 ### Pathfinding/Navigation
-
-
 
 [[Api] [Cc 1.5+] Flow, The Next Generation Turtle Library - Pathfinding! - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/14452-api-cc-15-flow-the-next-generation-turtle-library-pathfinding/)
 
@@ -1004,9 +879,7 @@ This is yet another movement API that tracks position and facing of the turtle, 
 
 This is yet another movement API that tracks position and facing of the turtle, but allows to give extensive movement instructions to a turtle in a s...
 
-
-
-
+### General Turtle
 
 [AgentSilence/Gladius](https://github.com/AgentSilence/Gladius)
 
@@ -1048,13 +921,7 @@ Yet another API designed to make turtle functions more robust. Includes function
 
 In this series a single button press starts one or more computercraft turtles building houses, gardens, trees, and other things. Most of the videos will use ...
 
-
-
-
-
-### Virtual File System
-
-
+## Virtual File System
 
 ['vfs': Virtual Filesystem Layer - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/14540-vfs-virtual-filesystem-layer/)
 
@@ -1072,9 +939,7 @@ Virtual Filesystem The VFS API hooks onto the fs API and allows "images" to be l
 
 Hello all. This program/API creates "fake" filesystems that are mapped to files, RAM, or even other computers. These folders can optionally...
 
-
-
-
+## General
 
 [Grin - Github Release INstaller - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/20530-grin-github-release-installer/)
 
@@ -1083,17 +948,3 @@ GRIN Github Release INstaller Grin is a tool designed to make github based distr
 [Tys API (W.I.P) [Base64] [Logging] - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/27670-tys-api-wip-base64-logging/)
 
 Tys API Hello CC community, I am Ty. I am an average LUA programmer. I love coding in LUA in my free time so I decided to start a big project, An API...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
