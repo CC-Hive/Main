@@ -370,6 +370,9 @@ EnderAPI - An API by the people, for the people
 Table-Explorer - A ComputerCraft program that lets you look through a table
 
 ## Does something which Hive will need to do
+[Opus OS](http://www.computercraft.info/forums2/index.php?/topic/27810-opus-os/)
+
+[turtle replacement](http://www.computercraft.info/forums2/index.php?/topic/27860-automatically-getting-id-of-computer/)
 
 [[b:7] Turtle Remote Control Voice Command [added Turtle Grouping] - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/15921-b7-turtle-remote-control-voice-command-added-turtle-grouping/)
 
@@ -948,3 +951,5 @@ GRIN Github Release INstaller Grin is a tool designed to make github based distr
 [Tys API (W.I.P) [Base64] [Logging] - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/27670-tys-api-wip-base64-logging/)
 
 Tys API Hello CC community, I am Ty. I am an average LUA programmer. I love coding in LUA in my free time so I decided to start a big project, An API...
+
+[book typesetting](http://www.computercraft.info/forums2/index.php?/topic/27971-typecc-a-simple-typesetting-system-for-books/)
