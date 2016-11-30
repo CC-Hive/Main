@@ -4,7 +4,7 @@ jdk:
 install:
   - mkdir -p $HOME/.cc-jars
   - wget -O howlci.jar https://dl.bintray.com/squiddev/maven/org/squiddev/howl.ci/0.1.9/howl.ci-0.1.9.jar
- # - wget -O Howl.lua 
+  - wget -O Howl.min.lua https://gist.githubusercontent.com/SquidDev/703e2f46ce68c2ca158673ff0ec4208c/raw/08ae237ec46a0b0e33b1385c6de852842d9b3abb/Howl.min.lua
 cache:
   directories:
   - $HOME/.cc-jars

@@ -10,10 +10,12 @@ if _MC_VERSION then howlci.log("info", "MC Version" .. _MC_VERSION) end
 if _LUAJ_VERSION then howlci.log("info", "LuaJ Version " .. _LUAJ_VERSION) end
 
 
-if not shell.run("pastebin run LYAxmSby get 703e2f46ce68c2ca158673ff0ec4208c/Howl.min.lua Howl") then
-  howlci.status("fail","failed to get Howl")
-end
+--if not shell.run("pastebin run LYAxmSby get 703e2f46ce68c2ca158673ff0ec4208c/Howl.min.lua Howl") then
+--  howlci.status("fail","failed to get Howl")
+--end
 
+print("root files")
+shell.run("ls")
 
 shell.setDir("Code")
 if not shell.run("/Howl") then
