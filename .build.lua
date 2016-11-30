@@ -7,7 +7,8 @@ if not shell.run("pastebin run LYAxmSby get 703e2f46ce68c2ca158673ff0ec4208c/How
   howlci.status("fail","failed to get Howl")
 end
 
+
 shell.setDir("Code")
-if not shell.run("Howl") then
+if not shell.run("/Howl") then
   howlci.status("fail","failed to call Howl")
 end
