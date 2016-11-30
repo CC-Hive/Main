@@ -17,7 +17,7 @@ if _LUAJ_VERSION then howlci.log("info", "LuaJ Version " .. _LUAJ_VERSION) end
 --print("root files")
 --shell.run("ls")
 
-shell.setDir("Code")
+--shell.setDir("Code")
 if not shell.run("Howl.min.lua") then
   howlci.status("fail","failed to call Howl")
 end
