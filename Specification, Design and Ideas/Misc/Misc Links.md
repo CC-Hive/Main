@@ -370,6 +370,8 @@ EnderAPI - An API by the people, for the people
 Table-Explorer - A ComputerCraft program that lets you look through a table
 
 ## Does something which Hive will need to do
+[Inventory manager] (https://github.com/SquidDev-CC/plethora/tree/minecraft-1.8.9/examples/inventory)
+
 [Opus OS](http://www.computercraft.info/forums2/index.php?/topic/27810-opus-os/)
 
 [turtle replacement](http://www.computercraft.info/forums2/index.php?/topic/27860-automatically-getting-id-of-computer/)
