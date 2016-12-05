@@ -5,7 +5,7 @@
 * [ ] make sections subfolders and have multiple smaller files https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
 * [ ] finish contributing.md - needs lua code presentation guidlines
 * [ ] copy link into file https://github.com/CC-Hive/Main/blob/master/Specification%2C%20Design%20and%20Ideas/Misc/help%20docs.md
-## exstended goals
+## Backlog Goals
 * [ ] todo to issues? use github project?
 * [ ] additinal/better use cases
 * [ ] Howl prepends all resulting lua files with [license](https://github.com/CC-Hive/Main/blob/master/LICENSE.txt), preferably as a sting/table of strings so that it can be printed to the screen if a user requests an about page
