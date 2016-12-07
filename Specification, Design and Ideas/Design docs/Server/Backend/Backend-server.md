@@ -26,7 +26,7 @@ If a turtle doesn't send any information to the server in the timelimit, than th
 
 Todo
 * how do files get between server and turtle
-* how does the user use the server (Dedicated client or [vncd/nsh](https://github.com/CC-Hive/cc-netshell))
+* how does the user use the server (Dedicated client or [vncd/nsh](https://github.com/CC-Hive/cc-netshell)) - Htis line should be in interface I think - @Lupus590
 
 Protocals:
 * Hive-Tasks
