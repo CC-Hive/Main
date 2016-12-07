@@ -10,7 +10,7 @@ There are 5 maps: Turtle, Server, Dock system, specifications and Examples&Infor
 Each design file (turtle and Server) will have a General tab for the general information. 
 And a required component which will be a list with all the thing's the program will need to be able to do.
 
-Each component also has a idea's section where you can put any ideas you have, so feel free to add something.
+Each component also has a idea's section where you can put any ideas you have, so feel free to add something. Please append with your name.
 Some component may also have a rejected idea's section so first look to that if you are planning to implement something.
 
 
