@@ -1,12 +1,30 @@
-# The Interface Specification
-This may be turned into an API, maybe two parts (one for server and one for turtle)
+The server computer will consist of two parts the interface which the user can interact with, and the server that will manage the turtles.
+This will probably be one computer but it could be two.
+
+## General:
+The server will need to comunicate with the turtles there may be a api for this.
 Implementation should be built on top of rednet using the Hive protocol.
-http://computercraft.info/wiki/Rednet_%28API%29
-Message information in this document assumes that rednet will add/has removed it's headers.
+For more detailed information see Server-Info, best to also see Task-Info to know what a task contains.
 
-Encryption is a no, it is unnecessary for this project
+## Required components:
+* It will send tasks to the turtles, this will be from the user through the interface or automatic tasks like harvesting a farm.
+* The server will also keep track of all the turles and what they are doing(see turtle-status), the interface will use this information.
+* If a turtle is stuck or MIA then, the server will send information of the last known position to the interface so the user can check it out, or maybe an other turtle.
+If a turtle doesn't send any information to the server in the timelimit, than the turtle will be marked MIA.
 
-todo
+
+## Ideas List:
+* (your idea here)
+
+
+## Rejected Idea:
+* Encryption is a no, it is unnecessary for this project
+
+
+## Other information:
+
+
+Todo
 * how do files get between server and turtle
 * how does the user use the server (Dedicated client or [vncd/nsh](https://github.com/CC-Hive/cc-netshell))
 
@@ -24,7 +42,7 @@ Key:
 * blocking: function discards events until it gets the one it wants
 * collects: function gathers listed data for it's use
 
-## Register
+# Register
 * Turtle -> Server
 * Turtle asks to join a server's turtle pool
 * blocking: true
@@ -35,7 +53,7 @@ Key:
 * collects: turtle name, equipped items, fuel count, location, inventory list and count
 * 
 
-## Assign Task
+# Assign Task
 * Server -> Turtle
 * Server sends a task to a Turtle
 * blocking: true
@@ -44,7 +62,7 @@ Key:
 * collects: task data, task files
 * 
 
-## Update State
+# Update State
 * Turtle -> Surver
 * turtle sends information to the surver about itself
 * blocking: false
