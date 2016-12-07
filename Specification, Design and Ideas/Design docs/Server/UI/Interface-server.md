@@ -2,6 +2,7 @@ The server computer will consist of two parts the interface which the user can i
 This will probably be one computer but it could be two.
 For more detailed information see Server-Info, best to also see Task-Info to know what a task contains.
 
+Server 'Interface' will be an API, an offical front end will be made too. - @Lupus590
 
 ## General:
 The interface will consist of differt tabs.
