@@ -1,9 +1,4 @@
 #To Do List
-####Meta
-* [ ] move bonus tasks to bottom of their sections
-* [ ] move scraped ideas to bottom of their sections
-* [ ] move compleate tasks to bottom of their sections
-* [ ] move maybe tasks (?) to top of their sections
 
 ####Turtle Stuff
 * [x] Update lama (last forum post said that it was buggy/not working in CC1.63) Re-writing it works too.

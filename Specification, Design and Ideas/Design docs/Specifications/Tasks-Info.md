@@ -1,9 +1,17 @@
 # Tasks
 
+# General:
+
+* Tasks don't have access to fs api and file part of io api,
+insead they should use the settings api which will be modified so that Hive knows when it is written to so that it can synchronise it with the server.
+See [This](https://github.com/lupus590/CC-Hive_moved-see-readme/issues/23) for more information.
+
 # Key
 * Trigger: what starts the task, usually events
 * Location: where the task starts
 * Priority: high, normal, low
+* drone requirements (pickaxe/hoe/fuel level/ect.) --blank for none
+* drone ID (if a specific drone needs to do this task put the ID here) --blank for any drone, can be array so that one of the drones will do it
 
 # Goals
 * Interruptible tasks have checkpoints, task will be resumed from the checkpoint. Possible interruptions:
