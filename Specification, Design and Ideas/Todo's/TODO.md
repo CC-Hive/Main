@@ -1,13 +1,21 @@
+* Done something? Tick it off.
+* Current goals all checked? Message @Lupus590 to update the todo list. (You can also have your pick of the backlog)
+* 
 ## Current Goals
+* [ ] todo to issues? use github project? each item to do will be a seperate issue (thats a lot of issues)
+ * will need a priority system
+ * how to do sub tasks? issues are for big tasks? several seperate github projects?
+ * can have tags (design/coding/bug/etc)
+* [ ] Hive turtle tracking is implemented and ready to deply
 * [ ] Howl-CI caches howl download
 * [ ] contents section for https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
 * [ ] cleanup useless info on links in https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
+* [ ] merge map.md into https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
 * [ ] make sections subfolders and have multiple smaller files https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
 * [ ] finish contributing.md - needs lua code presentation guidlines
 * [ ] copy link into file https://github.com/CC-Hive/Main/blob/master/Specification%2C%20Design%20and%20Ideas/Misc/help%20docs.md
 
 ## Backlog Goals
-* [ ] todo to issues? use github project?
 * [ ] additinal/better use cases
 * [ ] Howl prepends all resulting lua files with [license](https://github.com/CC-Hive/Main/blob/master/LICENSE.txt), preferably as a sting/table of strings so that it can be printed to the screen if a user requests an about page
 * [ ] https://help.github.com/articles/helping-people-contribute-to-your-project/
@@ -30,7 +38,12 @@
 * [ ] base navigation? http://www.computercraft.info/forums2/index.php?/topic/11067-idea-exchange/page__view__findpost__p__251718 http://www.computercraft.info/forums2/index.php?/topic/27007-a-rather-dapper-mapper-%E2%80%93-satellite-gps-maps/
 * [ ] tasks are represented by mini-tasks, some of these can depend on other mini-tasks being compleated before they can be done, some may be done in parallel (e.g. multiple turtles per tasks)
 * [ ] Multiple turtles can cooperate on one large task - possible implementations:
- * a turtle acts as a server for other turtles - will make small tasks more usefull as turtles out of range of cental server can get new tasks without going all the way back to base; server-turtle will forward status updates back to cental 
+ * a turtle acts as a server for other turtles - will make small tasks more usefull as turtles out of range of cental server can get new tasks without going all the way back to base; server-turtle will forward status updates back to cental
+  * server-turtle can work too, but what if it runs out of fuel? can't go get more as other turtles need his server part?
+   * migrate server to new turtle?
+   * wait until no dependents?
+   * ask dependent to get fuel for server?
+ * peer-to-peer, turtles all have task list and ask eachother "Has anyone done this yet, I'd like to do it?"
  * ~~server manages everything~~
 * [ ] metadata support https://github.com/lyqyd/metadata
 * [ ] Turtles share pathfinding map data, data is stored on server and turtles pull copies of the map as needed and update the map if the world changes
@@ -43,3 +56,4 @@
 * [ ] stealth mode, turtles communicate to server via disks. good for pvp servers
 * [ ] Package manager for addons/pugins and tasks
 * [ ] http://www.computercraft.info/forums2/index.php?/topic/27038-generic-builder/
+* [ ] port to OpenComputers? make a CC compatability layer first?
