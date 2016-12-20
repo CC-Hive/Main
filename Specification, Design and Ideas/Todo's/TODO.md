@@ -10,6 +10,7 @@
  * can have tags (design/coding/bug/etc)
 
 ## Current Goals
+* [ ] apply this: https://en.wikipedia.org/wiki/MoSCoW_method
 * [ ] implement Hive turtle tracking
 * [ ] Howl-CI caches howl code builder download
 * [ ] organise documentation
