@@ -1,19 +1,24 @@
 * Done something? Tick it off.
 * Current goals all checked? Message @Lupus590 to update the todo list. (You can also have your pick of the backlog)
-* 
-## Current Goals
+* Got a comment on something here? If it's short then add it (don't forget to sign your username
+
+## Priority Goal
+#### If you can do this then please do it
 * [ ] todo to issues? use github project? each item to do will be a seperate issue (thats a lot of issues)
  * will need a priority system
  * how to do sub tasks? issues are for big tasks? several seperate github projects?
  * can have tags (design/coding/bug/etc)
-* [ ] Hive turtle tracking is implemented and ready to deply
-* [ ] Howl-CI caches howl download
-* [ ] contents section for https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
-* [ ] cleanup useless info on links in https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
-* [ ] merge map.md into https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
-* [ ] make sections subfolders and have multiple smaller files https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
-* [ ] finish contributing.md - needs lua code presentation guidlines
-* [ ] copy link into file https://github.com/CC-Hive/Main/blob/master/Specification%2C%20Design%20and%20Ideas/Misc/help%20docs.md
+
+## Current Goals
+* [ ] implement Hive turtle tracking
+* [ ] Howl-CI caches howl code builder download
+* [ ] organise documentation
+ * [ ] contents section for https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
+ * [ ] cleanup useless info on links in https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
+ * [ ] merge map.md into https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
+ * [ ] make sections subfolders and have multiple smaller files https://github.com/CC-Hive/Main/blob/master/Specification,%20Design%20and%20Ideas/Misc/Misc%20Links.md
+ * [ ] finish contributing.md - needs lua code presentation guidlines
+ * [ ] copy link into file https://github.com/CC-Hive/Main/blob/master/Specification%2C%20Design%20and%20Ideas/Misc/help%20docs.md
 
 ## Backlog Goals
 * [ ] additinal/better use cases
