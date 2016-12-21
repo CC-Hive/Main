@@ -831,6 +831,8 @@ A system syncing the files of computers over some cloud storage API.
 
 ### Pathfinding/Navigation
 
+[network mapping](http://www.computercraft.info/forums2/index.php?/topic/28098-netnav-networked-mapping-system-and-turtle-pathfinding/)
+
 [[Api] [Cc 1.5+] Flow, The Next Generation Turtle Library - Pathfinding! - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/14452-api-cc-15-flow-the-next-generation-turtle-library-pathfinding/)
 
 Flow is a turtle library that tracks positions, stores waypoints, and pathfinds to wherever you want to go. Setup Spoiler Make sure to load flo...
