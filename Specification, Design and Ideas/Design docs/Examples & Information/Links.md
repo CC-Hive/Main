@@ -641,6 +641,7 @@ This is a collection of a few remote-access programs i wrote. It currently consi
 vncd is a companion to nsh that allows you to control a computer and see what is currently on its screen. It differs from nsh in that nsh spawns a n...
 
 ## Sandbox
+[change root](http://www.computercraft.info/forums2/index.php?/topic/28097-chroot-jail-for-craftos-17/)
 
 [APItools/sandbox.lua: A lua sandbox for executing non-trusted code](https://github.com/APItools/sandbox.lua)
 
