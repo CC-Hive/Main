@@ -33,6 +33,7 @@ by commands like git merge and git revert.
 adapted from [this blog](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
 # General
+* The master branch should always build (even if it does nothing), if you are making a new feature then make it in a new branch. See the [GitHub Flow](https://guides.github.com/introduction/flow/) for more information.
 * Follow styling sheet (provisional below)
 * Comment your code in a way that LDoc can use (see below)
 * Too many comments are better than too few, if a comment is exstanious then I ( @Lupus590 ) will remove it. I can't add comments for you though.
@@ -41,7 +42,6 @@ adapted from [this blog](http://tbaggery.com/2008/04/19/a-note-about-git-commit-
 * Try to keep commits descriptive (I will admit that I don't always do this)
 * Do lots of small commits over one big one, it's easier for others to contribute with you and easier to revert parts
 * Pull requests: if it's all related then it can all go together, just make sure it's not all one big commit (see above) I can revert parts I don't like later. As to deciding what's related, use your best judgment.
-* Don't edit files which your team is not responsible for, If you are not sure then check [here](https://github.com/orgs/CC-Hive/teams) the team description will help you. if you are still confused then just ask, either on the forums or make an issue.
 * This project is under the [MIT License](https://github.com/CC-Hive/Main/blob/master/LICENSE.txt). Any code contributions you make must be made under a compatible license.
 * Contributers should document and publish their work in a way that allows another contributor to pick up on it if the original contributer stops working on the project due to any reason. (Ths is why we are using LDoc)
 

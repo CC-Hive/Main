@@ -10,6 +10,8 @@
  * can have tags (design/coding/bug/etc)
 
 ## Current Goals
+* [ ] check links in all documents
+* [ ] Move docs to wiki?
 * [ ] apply this: https://en.wikipedia.org/wiki/MoSCoW_method
 * [ ] implement Hive turtle tracking
 * [ ] Howl-CI caches howl code builder download
