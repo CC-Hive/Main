@@ -43,6 +43,10 @@
 
 ## Extended Goals
 #### Don't work on these until the above are done
+* [ ] GUI scales
+ * [ ] all GUIs scale to fit screen size 
+ * [ ] all GUIs work on a pocket computer (with multishell being used)
+ * [ ] all GUIs rescale when screen size changes
 * [ ] base navigation? http://www.computercraft.info/forums2/index.php?/topic/11067-idea-exchange/page__view__findpost__p__251718 http://www.computercraft.info/forums2/index.php?/topic/27007-a-rather-dapper-mapper-%E2%80%93-satellite-gps-maps/
 * [ ] tasks are represented by mini-tasks, some of these can depend on other mini-tasks being compleated before they can be done, some may be done in parallel (e.g. multiple turtles per tasks)
 * [ ] Multiple turtles can cooperate on one large task - possible implementations:
