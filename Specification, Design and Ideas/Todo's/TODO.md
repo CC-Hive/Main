@@ -1,6 +1,6 @@
 * Done something? Tick it off.
 * Current goals all checked? Message @Lupus590 to update the todo list. (You can also have your pick of the backlog)
-* Got a comment on something here? If it's short then add it (don't forget to sign your username
+* Got a comment on something here? If it's short then add it (don't forget to sign your username)
 
 ## Priority Goal
 #### If you can do this then please do it
