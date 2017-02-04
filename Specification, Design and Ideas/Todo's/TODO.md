@@ -1,6 +1,6 @@
 * Done something? Tick it off.
 * Current goals all checked? Message @Lupus590 to update the todo list. (You can also have your pick of the backlog)
-* Got a comment on something here? If it's short then add it (don't forget to sign your username)
+* Got a comment on something here? If it's short then add it (don't forget to sign your username), if it's a bit longer then make an issue about it.
 
 ## Priority Goal
 #### If you can do this then please do it
@@ -40,6 +40,11 @@
 * [ ] other special files: https://en.wikipedia.org/wiki/README
 * [ ] link map in readme, to aid navigation of visitors
 * [ ] low priority: decide distribution method, github mile stones? is this possible via a script on pastebin?
+* [ ] hive suggests replacing the startup script with one which will call hive and gives three options:
+ * have hive replace the script. a backup will be made of any script that was named startup
+ * do nothing but ask again next time
+ * do nothing and don't ask again
+ * if hive is set to run via startup script but is not (ie the script was edited or replaced) then it will ask again (the startup script will have to launch hive in a special way
 
 ## Extended Goals
 #### Don't work on these until the above are done
