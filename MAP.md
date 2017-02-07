@@ -25,7 +25,7 @@
 
 ## Similar Projects
 ##### check license before copying code
-* ~~[the old Hive repo](https://github.com/lupus590/CC-Hive_moved-see-readme/tree/master.old) - the original git repo~~ gitten all of the content we can get from here
+* ~~[the old Hive repo](https://github.com/lupus590/CC-Hive_moved-see-readme/tree/master.old) - the original git repo~~ all of the content we can get from here has been taken
 * [turtletopia](https://github.com/lyqyd/turtletopia) - turtle automation framework
 * [base-mate](https://github.com/lyqyd/base-mate) - A base automation system for ComputerCraft
 * [QDTTS](https://github.com/QBFreak/QDTTS) - quick and dirty turtle task system
