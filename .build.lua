@@ -21,5 +21,4 @@ shell.setDir("/Code")
 if not shell.run("/Howl.min.lua") then
   howlci.status("fail","failed to call Howl")
 end
-howlci.status("fail","forced fail to test gitter intergration")
 howlci.close() --tell howlci that we are done
