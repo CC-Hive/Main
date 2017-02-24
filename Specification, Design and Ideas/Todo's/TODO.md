@@ -73,4 +73,4 @@
 * [ ] stealth mode, turtles communicate to server via disks. good for pvp servers
 * [ ] Package manager for addons/pugins and tasks
 * [ ] http://www.computercraft.info/forums2/index.php?/topic/27038-generic-builder/
-* [ ] port to OpenComputers? make a CC compatability layer first?
+* [ ] port to OpenComputers? ~~make a CC compatability layer first?~~ http://www.computercraft.info/forums2/index.php?/topic/28381-
