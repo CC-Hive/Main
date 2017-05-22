@@ -12,5 +12,6 @@ It will also replace all moving commands like turtle.forward(). No other program
 
 ## Ideas List:
 * for pathfinding: highways for the turtles
+  * [BB's node enhanced pathing](http://www.computercraft.info/forums2/index.php?/topic/28649-turtle-navigation-diagonal-route-or-square/page__view__findpost__p__267177)   
 * mapping program what will map the area, for more information: (http://www.computercraft.info/forums2/index.php?/topic/9717-octree-efficient-way-of-storing-and-querying-3d-data/ ) 
 * (your idea here)
