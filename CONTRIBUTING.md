@@ -3,6 +3,8 @@ When requesting support, try to remember that we are all volunteers that have li
 
 Adapted from [choclatey](https://github.com/chocolatey/choco#etiquette-regarding-communication)
 
+TLDR: Remember the human - reddit.
+
 ## Defining a contribution
 You are a contributor if you...
 * have made at least one pull request which has been accepted
