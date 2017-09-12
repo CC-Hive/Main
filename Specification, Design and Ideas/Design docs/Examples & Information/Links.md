@@ -93,6 +93,8 @@ Real World Time API (Version 1.0) This API is in now in its release version. As 
 
 ## State Machine
 
+[statemachine api](http://www.computercraft.info/forums2/index.php?/topic/25805-statemachine-api/)
+
 [ccapis/state at master · fnuecke/ccapis](https://github.com/fnuecke/ccapis/blob/master/apis/state)
 
 ccapis - Assorted list of small APIs for ComputerCraft
@@ -101,7 +103,7 @@ ccapis - Assorted list of small APIs for ComputerCraft
 
 utils - Stuff ported to CC and not.
 
-## UI
+## UI and GUI
 
 [[WIP] Titanium - UI Framework - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/27733-wip-titanium-ui-framework/)
 
@@ -939,7 +941,9 @@ Yet another API designed to make turtle functions more robust. Includes function
 
 In this series a single button press starts one or more computercraft turtles building houses, gardens, trees, and other things. Most of the videos will use ...
 
-## Virtual File System
+## Virtual File System/Virtual Machine
+
+[VirtualOS - A virtual Machine for CC](http://www.computercraft.info/forums2/index.php?/topic/28980-virtualos-a-virtual-machine-for-cc-now-with-gui/)
 
 ['vfs': Virtual Filesystem Layer - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/14540-vfs-virtual-filesystem-layer/)
 
@@ -957,14 +961,23 @@ Virtual Filesystem The VFS API hooks onto the fs API and allows "images" to be l
 
 Hello all. This program/API creates "fake" filesystems that are mapped to files, RAM, or even other computers. These folders can optionally...
 
-## General
+## Installing and Updating
 
 [Grin - Github Release INstaller - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/20530-grin-github-release-installer/)
 
 GRIN Github Release INstaller Grin is a tool designed to make github based distribution simple. With grin, you can package a release together in a zi...
 
+[gitGet](http://www.computercraft.info/forums2/index.php?/topic/17387-gitget-version-2-release/)
+
+[github downloding - ask a pro](http://www.computercraft.info/forums2/index.php?/topic/28985-download-folder-from-github/)
+
+## Debugging
+
 [Tys API (W.I.P) [Base64] [Logging] - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/27670-tys-api-wip-base64-logging/)
 
 Tys API Hello CC community, I am Ty. I am an average LUA programmer. I love coding in LUA in my free time so I decided to start a big project, An API...
 
+[EMAL - event logger](http://www.computercraft.info/forums2/index.php?/topic/28899-emal-event-monitoring-and-logging/)
+
+## General
 [book typesetting](http://www.computercraft.info/forums2/index.php?/topic/27971-typecc-a-simple-typesetting-system-for-books/)
