@@ -376,6 +376,8 @@ EnderAPI - An API by the people, for the people
 Table-Explorer - A ComputerCraft program that lets you look through a table
 
 ## Does something which Hive will need to do
+[discussion on turtle swam logistics](http://www.computercraft.info/forums2/index.php?/topic/11113-questionalgorithmsdiscussion-turtle-swarm-management/)
+
 [TNetwork](https://github.com/Hermanoid/CC-TNetwork)
 
 [cron](http://www.computercraft.info/forums2/index.php?/topic/28136-cron-runs-programs-automatic/)
