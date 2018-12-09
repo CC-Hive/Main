@@ -49,7 +49,7 @@
 ## Extended Goals
 #### Don't work on these until the above are done
 * [ ] GUI scales
- * [ ] all GUIs scale to fit screen size 
+ * [ ] all GUIs scale to fit screen size
  * [ ] all GUIs work on a pocket computer (with multishell being used)
  * [ ] all GUIs rescale when screen size changes
 * [ ] base navigation? http://www.computercraft.info/forums2/index.php?/topic/11067-idea-exchange/page__view__findpost__p__251718 http://www.computercraft.info/forums2/index.php?/topic/27007-a-rather-dapper-mapper-%E2%80%93-satellite-gps-maps/
@@ -74,3 +74,7 @@
 * [ ] Package manager for addons/pugins and tasks
 * [ ] http://www.computercraft.info/forums2/index.php?/topic/27038-generic-builder/
 * [ ] port to OpenComputers? ~~make a CC compatability layer first?~~ http://www.computercraft.info/forums2/index.php?/topic/28381-
+* [ ] help docs via help api
+* [ ] autocomplete
+* [ ] crash reporter which makes issues on github
+* [ ] plethora vr/ar interface http://www.computercraft.info/forums2/index.php?/topic/29672-arc-really-simple-plethora-augmented-reality/

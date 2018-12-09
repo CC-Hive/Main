@@ -123,3 +123,6 @@ A while ago I tried (and gave up) to make some simple FTP program (which is kind
 [Infiniftp File Transfer Software For Rednet! - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/14753-infiniftp-file-transfer-software-for-rednet/)
 
 InfiniFTP: For all your file tranferring needs! Now with more super shiny glowing logo! About InfiniFTP: Well, after that huge introduct...
+
+
+[netsharp](http://www.computercraft.info/forums2/index.php?/topic/29362-netsharp-keeping-computers-connected/)

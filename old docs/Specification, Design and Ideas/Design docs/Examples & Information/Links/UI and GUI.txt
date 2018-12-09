@@ -57,3 +57,11 @@ Ascii GUI (Text user interface) Functions Note: There is a really good reason I 
 [theoriginalbit/Graphics-Library: An API for ComputerCraft designed to help developers create advanced and complicated user interfaces quickly and easily](https://github.com/theoriginalbit/Graphics-Library)
 
 Graphics-Library - An API for ComputerCraft designed to help developers create advanced and complicated user interfaces quickly and easily
+
+[surface](https://github.com/CrazedProgrammer/Surface2)
+
+[cobalt](http://www.computercraft.info/forums2/index.php?/topic/27064-cobalt-a-callback-wrapper-for-computercraft/)
+
+[bedrock](http://www.computercraft.info/forums2/index.php?/topic/19702-bedrock-the-complete-gui-framework/)
+
+[sheets](https://github.com/Exerro/Sheets/releases)

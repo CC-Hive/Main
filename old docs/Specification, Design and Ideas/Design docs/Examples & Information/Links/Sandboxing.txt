@@ -25,3 +25,5 @@ I'm working on a sandbox. How can I make it more secure (AKA prevent a program f
 [Some kind of "sandbox" for your scripts - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/21501-some-kind-of-sandbox-for-your-scripts/)
 
 So this is a tool i simply wrote because I wanted to see if I could make it work It is not very big as you can see: Spoiler local function iT...
+
+[sbox](http://www.computercraft.info/forums2/index.php?/topic/28792-sbox-sandboxing-utility/)

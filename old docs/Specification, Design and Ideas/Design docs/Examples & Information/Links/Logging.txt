@@ -43,3 +43,5 @@ here is the code local native = term.native local device = {} local screen = {} 
 [[ALPHA] The log API, document whats been happening! - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/12021-alpha-the-log-api-document-whats-been-happening/)
 
 My first ever API, with it you can create neat .log files to read later and soon (I hope) print them! This is very boring I know, but its the fi...
+
+[blunty666](https://github.com/blunty666/CC-Programs-and-APIs/blob/master/utils/log.lua)

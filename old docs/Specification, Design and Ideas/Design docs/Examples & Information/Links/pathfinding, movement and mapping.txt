@@ -53,3 +53,9 @@ This is yet another movement API that tracks position and facing of the turtle, 
 [TwoMove - Turtle movement API with position tracking - ComputerCraft | Programmable Computers for Minecraft](http://www.computercraft.info/forums2/index.php?/topic/20185-twomove-turtle-movement-api-with-position-tracking/)
 
 This is yet another movement API that tracks position and facing of the turtle, but allows to give extensive movement instructions to a turtle in a s...
+
+[egps fork](http://www.computercraft.info/forums2/index.php?/topic/25856-un-official-egps-developement-mapping-pathfinding-api/)
+
+[ a rather dapper mapper](http://www.computercraft.info/forums2/index.php?/topic/27007-a-rather-dapper-mapper-%e2%80%93-satellite-gps-maps/)
+
+[blunty666](https://github.com/blunty666/CC-Pathfinding-and-Mapping)
