@@ -19,6 +19,11 @@ local function add(newdaemonName, newdaemonFunc, replaceIfExists)
     error("daemon exists")
   end
   daemons[newdaemonName]={coroutine=coroutine.create(newdaemonFunc), eventFilter = nil}
+  local ok, returnedValues = table.pack(coroutine.resume(daemons[newdaemonName].coroutine))
+  if not ok then
+    error(table.unpack(returnedValues))
+  end
+  daemons[newdaemonName].eventFilter = returnedValues[1]
 end
 
 local function remove(daemonName)
@@ -42,7 +47,11 @@ local function daemonHost()
   for k, v in pairs(daemons)
     if coroutine.status(v) == "suspended" then
       if v.eventFilter == nil or v.eventFilter == event[1] then
-        v.eventFilter = coroutine.resume(v, table.unpack(event))
+        local ok, returnedValues = table.pack(coroutine.resume(daemons[newdaemonName].coroutine))
+        if not ok then
+          error(table.unpack(returnedValues))
+        end
+        daemons[newdaemonName].eventFilter = returnedValues[1]
       end
     end
   end
