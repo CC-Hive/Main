@@ -2,10 +2,10 @@
 --License: MIT
 
 local description = {
-"This script is designed to be run on startup and checks if computers have a label.",
-"If it does not then it makes one based on several pieces of data which can help identify the computer.",
-"The format of the resulting label is '<Advanced|Normal><Turtle|Pocket|Computer><ID>' all within 2 characters (plus id)",
-"If the computer already has a label and you want this script to assign a new one then you can run the script with the argument f",
+  "This script is designed to be run on startup and checks if computers have a label.",
+  "If it does not then it makes one based on several pieces of data which can help identify the computer.",
+  "The format of the resulting label is '<Advanced|Normal><Turtle|Pocket|Computer><ID>' all within 2 characters (plus id)",
+  "If the computer already has a label and you want this script to assign a new one then you can run the script with the argument f",
 }
 
 
@@ -41,7 +41,8 @@ local function printArgs()
 end
 
 
---main
+-- main
+-- TODO: handle multiple args (should print args and exit)
 local args = {...} or nil
 if args[1] == nil then
 	--normal mode
