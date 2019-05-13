@@ -8,6 +8,8 @@ local description = {
   "If the computer already has a label and you want this script to assign a new one then you can run the script with the argument f",
 }
 
+-- TODO: add support for plethora neural interface
+
 
 local function genLabel()
 	local advance --is the computer an advanced golden computer?
