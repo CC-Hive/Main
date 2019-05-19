@@ -8,6 +8,8 @@ local description = {
   "If the computer already has a label and you want this script to assign a new one then you can run the script with the argument f",
 }
 
+-- TODO: add support for plethora neural interface
+
 
 local function genLabel()
 	local advance --is the computer an advanced golden computer?
@@ -49,7 +51,7 @@ if args[1] == nil then
 	if os.getComputerLabel() == nil then
 		genLabel()
 	end
-elseif args[1] == "f" or args[1] == "F" then
+elseif args[1] == "f" or args[1] == "F" or args[1] == "-f" or args[1] == "-F" then
 	--force a re-gen
 	genLabel()
 	print("Label set to "..os.getComputerLabel())
