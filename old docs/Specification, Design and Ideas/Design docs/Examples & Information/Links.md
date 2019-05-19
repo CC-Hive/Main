@@ -5,6 +5,14 @@ A bunch of websites which may be useful to development
 ## Misc
 * https://www.youtube.com/watch?v=6NkZP6T37hU&list=PLwJ1NkMkbbHR53Rva3WS2gcmS-1h4KdXO&index=45
 * https://www.youtube.com/watch?v=JfF2Mdf61Rs&index=43&list=PLwJ1NkMkbbHR53Rva3WS2gcmS-1h4KdXO
+* https://github.com/Microeinstein/ComputerCraftExe
+* https://github.com/tulir/quacknet
+* https://github.com/QBFreak/QDTTS
+* https://github.com/Kamprath/computercraft-framework
+* https://github.com/mikk809h/TurtleSwarm
+* https://github.com/GReaperEx/acctc
+* https://github.com/kukeiko/MC-CC-Squirtle
+
 
 ## Plugin Systems
 * http://softwareengineering.stackexchange.com/questions/244965/where-to-start-when-designing-an-application-that-allows-plugins
@@ -59,7 +67,3 @@ A bunch of websites which may be useful to development
 * http://dev.minetest.net/Git_Guidelines
 * http://dev.minetest.net/Lua_code_style_guidelines
 * https://www.google.co.uk/#q=lua+style+guide
-
-
-
-
